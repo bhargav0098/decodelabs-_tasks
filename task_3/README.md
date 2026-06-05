@@ -25,3 +25,5 @@ A Content-Based Filtering recommendation engine built to map user skills to idea
 
 - Implement fallback logic to handle the "User Cold Start" problem using onboarding surveys.
 - Integrate with a full-stack dashboard (React/Node.js) for an interactive UI.
+
+<img width="1021" height="411" alt="Screenshot 2026-06-06 003835" src="https://github.com/user-attachments/assets/2c595ce8-1c7d-4594-9517-a48b61d0d351" />
